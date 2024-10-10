@@ -1,0 +1,2 @@
+Prefix plugins/ContactChain/example/
+Plugin ContactChain inputfile parameters.contactchain.txt outputfile output.contact.chain.txt
